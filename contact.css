@@ -1,0 +1,12 @@
+input[name=question] {
+    width: 50%;
+    height: 300px;
+}
+
+input[name=name] {
+    margin: 20px;
+}
+
+header{
+    margin: 20pxe;
+}
